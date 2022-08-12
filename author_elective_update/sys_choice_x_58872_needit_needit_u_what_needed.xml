@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-08-11 10:33:35</sys_created_on>
-            <sys_id>38f56df447151110cf89ba48436d434a</sys_id>
+            <sys_id>c011c67047951110cf89ba48436d4364</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_what_needed</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -141,40 +141,20 @@
             <element>u_what_needed</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Epic Test Choice 1</label>
+            <label>Other</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>6</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-11 10:33:35</sys_created_on>
+            <sys_created_on>2022-08-12 06:04:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>70f56df447151110cf89ba48436d4358</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>0ff171c547d15110cf89ba48436d4301</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-11 10:33:35</sys_updated_on>
-            <value>test choice 1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_what_needed</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Epic Test Choice 2</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>7</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-11 10:33:35</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>34f56df447151110cf89ba48436d435a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-11 10:33:35</sys_updated_on>
-            <value>test choice 2</value>
+            <sys_updated_on>2022-08-12 06:05:05</sys_updated_on>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
